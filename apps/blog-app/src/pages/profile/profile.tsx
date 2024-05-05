@@ -1,6 +1,6 @@
 import {Button, Text, View} from 'react-native';
 
-export const SettingsScreen = ({
+export const ProfileScreen = ({
   navigation,
   route,
 }: {

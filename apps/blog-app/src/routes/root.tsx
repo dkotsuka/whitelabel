@@ -1,5 +1,5 @@
 import {NavigationContainer} from '@react-navigation/native';
-import {MainStack} from './routes/main-stack';
+import {MainStack} from './main.stack';
 
 export const Root = () => {
   return (
